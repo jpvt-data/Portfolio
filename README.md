@@ -1,12 +1,12 @@
 # Bienvenue sur mon portfolio GitHub !  
 
 ## À propos  
-Data Analyst passionné par la transformation des données en informations exploitables, j’aime relever des défis en utilisant des approches analytiques et des outils modernes. Mon objectif est de proposer des solutions concrètes et impactantes, adaptées aux besoins métier, à travers mes projets et analyses.  
+Data Analyst passionné par l'exploration et la valorisation des données, je combine une solide expertise métier acquise dans le secteur du retail avec des compétences analytiques et techniques. Mon objectif est de transformer les données en outils d’aide à la décision, quel que soit le secteur d’activité.  
 
 ---
 
 ## 💻 Compétences techniques  
-Voici les technologies et outils que j’utilise dans mes projets :  
+Voici les outils et technologies que j’utilise régulièrement :  
 - **Langages de programmation :** Python, SQL  
 - **Visualisation des données :** Power BI, Matplotlib, Seaborn  
 - **Manipulation des données :** Pandas, NumPy  
@@ -16,14 +16,14 @@ Voici les technologies et outils que j’utilise dans mes projets :
 ---
 
 ## 📊 Projets  
-Ce portfolio regroupe des projets variés couvrant l’analyse des données, la création de tableaux de bord interactifs, ainsi que la résolution de problématiques concrètes. Chaque projet est organisé dans un répertoire spécifique et documenté pour en faciliter la compréhension.  
+Ce portfolio présente des projets variés mettant en lumière ma capacité à analyser des données, concevoir des tableaux de bord interactifs et résoudre des problématiques complexes. Tous les projets sont organisés dans des répertoires individuels et documentés.  
 
 ---
 
 ## 🎯 Objectifs actuels  
-- Consolider mes compétences en gestion et analyse de données.  
-- Explorer des solutions innovantes en data visualisation.  
-- Partager des projets utiles et pertinents pour la prise de décision.  
+- Continuer à développer mes compétences en analyse et en visualisation de données.  
+- Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
+- Explorer de nouvelles techniques, notamment en machine learning et data storytelling.  
 
 ---
 
@@ -31,4 +31,4 @@ Ce portfolio regroupe des projets variés couvrant l’analyse des données, la 
 - **LinkedIn :** [Mon profil LinkedIn](#)  
 - **Email :** [Mon adresse email](#)  
 
-Merci de visiter mon portfolio ! Je vous invite à explorer mes projets et à me contacter pour toute collaboration ou opportunité.  
+Merci de visiter mon portfolio ! N’hésitez pas à parcourir mes projets et à me contacter pour échanger sur des collaborations ou opportunités.  
