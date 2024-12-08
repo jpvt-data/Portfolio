@@ -29,6 +29,6 @@ Ce portfolio présente des projets variés mettant en lumière ma capacité à a
 
 ## 🚀 Me contacter  
 - **LinkedIn :** [Mon profil LinkedIn](#)  
-- **Email :** [Mon adresse email](#)  
+- **Email :** [jpvt@outlook.fr](#)  
 
 Merci de visiter mon portfolio ! N’hésitez pas à parcourir mes projets et à me contacter pour échanger sur des collaborations ou opportunités.  
