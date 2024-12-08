@@ -1,4 +1,4 @@
-# Bienvenue sur mon portfolio GitHub !  
+# Bienvenue sur mon portfolio !  
 
 ## À propos  
 Data Analyst passionné par l'exploration et la valorisation des données, je combine une solide expertise métier acquise dans le secteur du retail avec des compétences analytiques et techniques. Mon objectif est de transformer les données en outils d’aide à la décision, quel que soit le secteur d’activité.  
