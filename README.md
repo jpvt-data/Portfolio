@@ -1,12 +1,12 @@
 # Bienvenue sur mon portfolio GitHub !  
 
-## À propos de moi  
-Bonjour, je m'appelle Jean Paul et je suis en pleine transition professionnelle pour devenir Data Analyst. Passionné par l'analyse de données et la résolution de problèmes complexes, j'ai pour objectif de transformer les données en insights exploitables pour prendre des décisions éclairées.  
+## À propos  
+Data Analyst passionné par la transformation des données en informations exploitables, j’aime relever des défis en utilisant des approches analytiques et des outils modernes. Mon objectif est de proposer des solutions concrètes et impactantes, adaptées aux besoins métier, à travers mes projets et analyses.  
 
 ---
 
 ## 💻 Compétences techniques  
-Voici les outils et technologies que j’utilise régulièrement :  
+Voici les technologies et outils que j’utilise dans mes projets :  
 - **Langages de programmation :** Python, SQL  
 - **Visualisation des données :** Power BI, Matplotlib, Seaborn  
 - **Manipulation des données :** Pandas, NumPy  
@@ -16,14 +16,14 @@ Voici les outils et technologies que j’utilise régulièrement :
 ---
 
 ## 📊 Projets  
-Dans ce portfolio, vous trouverez une sélection de projets réalisés dans le cadre de ma formation et de mon apprentissage personnel. Chaque projet est organisé dans un répertoire dédié, accompagné d'une description et des fichiers nécessaires.  
+Ce portfolio regroupe des projets variés couvrant l’analyse des données, la création de tableaux de bord interactifs, ainsi que la résolution de problématiques concrètes. Chaque projet est organisé dans un répertoire spécifique et documenté pour en faciliter la compréhension.  
 
 ---
 
 ## 🎯 Objectifs actuels  
-- Approfondir mes compétences en visualisation et storytelling avec les données.  
-- Améliorer mes pratiques de gestion et de traitement de données à grande échelle.  
-- Réaliser des projets concrets qui répondent à des problématiques réelles.  
+- Consolider mes compétences en gestion et analyse de données.  
+- Explorer des solutions innovantes en data visualisation.  
+- Partager des projets utiles et pertinents pour la prise de décision.  
 
 ---
 
@@ -31,4 +31,4 @@ Dans ce portfolio, vous trouverez une sélection de projets réalisés dans le c
 - **LinkedIn :** [Mon profil LinkedIn](#)  
 - **Email :** [Mon adresse email](#)  
 
-Merci de visiter mon portfolio ! N’hésitez pas à explorer les projets et à me contacter pour toute question ou opportunité.  
+Merci de visiter mon portfolio ! Je vous invite à explorer mes projets et à me contacter pour toute collaboration ou opportunité.  
