@@ -4,7 +4,7 @@
 
 Dans ce projet, j'ai utilisé le machine learning pour effectuer une recherche de similarité entre différents pokémons en fonction de leurs caractéristiques. L'objectif était de prédire quels pokémons "réguliers" sont les plus similaires à un pokémon légendaire, basé sur des critères comme le type et les statistiques de combat.
 
-- 🌟 **[Lien vers le projet](./machine_learning/recherche_de_similarites/recherche_de_similarites_pokemon.ipynb)**
+- 🌟 **[Lien vers le projet](./recherche_de_similarites_pokemon.ipynb)**
 
 ## Techniques utilisées
 
