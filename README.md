@@ -21,7 +21,7 @@ Ce portfolio présente des projets variés mettant en lumière ma capacité à a
 1. **Recherche de Similarité - Pokémons**
    - 📄 **Description :** Utilisation du machine learning pour prédire les pokémons similaires à un autre basé sur leurs caractéristiques.
    - 🔧 **Outils :** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-   - 🌟 **[Lien vers le projet](./machine_learning/recherche_de_similarite/)**
+   - 🌟 **[Lien vers le projet](./machine_learning/recherche_de_similarites/)**
 
 ---
 
