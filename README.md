@@ -1,4 +1,4 @@
-# Bienvenue sur mon portfolio !  
+de# Bienvenue sur mon portfolio !  
 
 ## À propos  
 Data Analyst passionné par l'exploration et la valorisation des données, je combine une solide expertise métier acquise dans le secteur du retail avec des compétences analytiques et techniques. Mon objectif est de transformer les données en outils d’aide à la décision, quel que soit le secteur d’activité.  
@@ -33,7 +33,7 @@ Ce portfolio présente des projets variés mettant en lumière ma capacité à a
 ---
 
 ## 🚀 Me contacter  
-- **LinkedIn :** [Mon profil LinkedIn](#)  
+- **LinkedIn :** [#profil](https://www.linkedin.com/in/jpvt33)
 - **Email :** [@jpvt](mailto:jpvt@outlook.fr)
 
 Merci de visiter mon portfolio ! N’hésitez pas à parcourir mes projets et à me contacter pour échanger sur des collaborations ou opportunités.  
