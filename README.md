@@ -16,7 +16,12 @@ Voici les outils et technologies que j’utilise régulièrement :
 ---
 
 ## 📊 Projets  
-Ce portfolio présente des projets variés mettant en lumière ma capacité à analyser des données, concevoir des tableaux de bord interactifs et résoudre des problématiques complexes. Tous les projets sont organisés dans des répertoires individuels et documentés.  
+Ce portfolio présente des projets variés mettant en lumière ma capacité à analyser des données, concevoir des tableaux de bord interactifs et résoudre des problématiques complexes. Tous les projets sont organisés dans des répertoires individuels et documentés.
+
+1. **Recherche de Similarité - Pokémons**
+   - 📄 **Description :** Utilisation du machine learning pour prédire les pokémons similaires à un autre basé sur leurs caractéristiques.
+   - 🔧 **Outils :** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+   - 🌟 **[Lien vers le projet](./machine_learning/recherche_de_similarité/)**
 
 ---
 
