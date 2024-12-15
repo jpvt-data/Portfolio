@@ -20,4 +20,4 @@ Cette section regroupe les exercices et projets réalisés dans le cadre de l'ap
 - [**Recherche de Similarité - Pokémons**](./similarites_pokemon.ipynb) : prédiction de pokémons similaires à un autre, en fonction de leurs caractéristiques.
     - *Scikit-learn, Matplotlib, Seaborn, Plotly*  
   
-[⬅ Retour à Portfolio](.../README.md)
+[⬅ Retour à Portfolio](../../../README.md)
