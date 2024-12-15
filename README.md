@@ -28,7 +28,7 @@ Cette section est en développement et contiendra des études approfondies sur d
 ## 🛠 Mises en pratique  
 Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
 
-- [**Machine Learning**](./mise_en_pratique/machine_learning/)
+- [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
 
 ---
 
