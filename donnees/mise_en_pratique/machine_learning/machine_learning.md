@@ -11,13 +11,15 @@ Cette section regroupe les exercices et projets réalisés dans le cadre de l'ap
 ## 🧠 Apprentissage supervisé
 
 - [**Cross-Validation & Grid Search**](./cross_validation_grid_search.ipynb) : optimisation des hyperparamètres d'un modèle d'apprentissage supervisé.  
-   - *Scikit-learn, GridSearchCV, Cross-Validation*  
+   - *Scikit-learn, GridSearchCV, Cross-Validation*
 
 ---
 
 ## 🤖 Apprentissage non supervisé
 
 - [**Recherche de Similarité - Pokémons**](./similarites_pokemon.ipynb) : prédiction de pokémons similaires à un autre, en fonction de leurs caractéristiques.
-    - *Scikit-learn, Matplotlib, Seaborn, Plotly*  
+    - *Scikit-learn, Matplotlib, Seaborn, Plotly*
+- [**K-means**](./k_means.ipynb) : application de l'algorithme K-means pour effectuer du clustering non supervisé 
+    - *Scikit-learn, KMeans, silhouette_score*
   
 [⬅ Retour à Portfolio](../../../README.md)
