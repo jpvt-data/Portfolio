@@ -3,7 +3,7 @@
 🚧 **Work in Progress** 🚧
 
 ## À propos  
-Data Analyst passionné par l'exploration et la valorisation des données, je combine une solide expertise métier acquise dans le secteur du retail avec des compétences analytiques et techniques. Mon objectif est de transformer les données en outils d’aide à la décision, quel que soit le secteur d’activité.  
+Je suis un Data Analyst passionné par l'exploration et la valorisation des données. Fort d'une expérience dans le secteur du retail, je mets à profit mes compétences analytiques et techniques pour transformer les données en outils d’aide à la décision. Mon objectif est de trouver des solutions adaptées aux besoins variés des entreprises, quel que soit le secteur.
 
 ---
 
@@ -12,18 +12,23 @@ Voici les outils et technologies que j’utilise régulièrement :
 - **Langages de programmation :** Python, SQL  
 - **Visualisation des données :** Power BI, Matplotlib, Seaborn  
 - **Manipulation des données :** Pandas, NumPy  
-- **Bases de données :** MySQL, PostgreSQL  
+- **Bases de données :** MySQL, PostgreSQL
+- **Machine learning** : Scikit-learn
 - **Outils complémentaires :** Git, Jupyter Notebook, Excel  
 
 ---
 
 ## 📊 Projets  
-Ce portfolio présente des projets variés mettant en lumière ma capacité à analyser des données, concevoir des tableaux de bord interactifs et résoudre des problématiques complexes. Tous les projets sont organisés dans des répertoires individuels et documentés.
+Cette section est en développement et contiendra des études approfondies sur des problématiques spécifiques que j'ai abordées, des projets au cours de ma formation, et mes réalisation personnelles.
 
-1. **Recherche de Similarité - Pokémons**
-   - 📄 **Description :** Utilisation du machine learning pour prédire les pokémons similaires à un autre basé sur leurs caractéristiques.
-   - 🔧 **Outils :** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-   - 🌟 **[Lien vers le projet](./machine_learning/recherche_de_similarites/)**
+- **Projets à venir :** Cette section sera bientôt mise à jour avec des études détaillées.
+
+---
+
+## 🛠 Mises en pratique  
+Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
+
+- [**Machine Learning**](./mise_en_pratique/machine_learning/)
 
 ---
 
@@ -35,7 +40,7 @@ Ce portfolio présente des projets variés mettant en lumière ma capacité à a
 ---
 
 ## 🚀 Me contacter  
-- **LinkedIn :** [#profil](https://www.linkedin.com/in/jpvt33)
+- **LinkedIn :** [#profil](https://www.linkedin.com/in/jpvt33)  
 - **Email :** [@jpvt](mailto:jpvt@outlook.fr)
 
-Merci de visiter mon portfolio ! N’hésitez pas à parcourir mes projets et à me contacter pour échanger sur des collaborations ou opportunités.  
+Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
