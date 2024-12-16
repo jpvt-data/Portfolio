@@ -21,5 +21,8 @@ Cette section regroupe les exercices et projets réalisés dans le cadre de l'ap
     - *Scikit-learn, Matplotlib, Seaborn, Plotly*
 - [**K-means**](./k_means.ipynb) : application de l'algorithme K-means pour effectuer du clustering non supervisé 
     - *Scikit-learn, KMeans, silhouette_score*
+- [**PCA - Réduction de Dimensions & KNN**](./PCA_Reduction_dimensions.ipynb) : application de la méthode PCA pour la réduction de dimensions et son intégration dans un modèle de classification KNN.
+    - *Scikit-learn, PCA, KNN, Matplotlib, Seaborn*
+
   
 [⬅ Retour à Portfolio](../../../README.md)
