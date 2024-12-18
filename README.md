@@ -27,7 +27,8 @@ Voici les outils et technologies que j’utilise régulièrement :
 ## 📊 Projets  
 Cette section est en développement et contiendra des études approfondies sur des problématiques spécifiques que j'ai abordées, des projets au cours de ma formation, et mes réalisation personnelles.
 
-- **Projets à venir :** Cette section sera bientôt mise à jour avec des études détaillées.
+- **[SQL & BI - Toys & Models](./donnees/projet/toys_and_models/README.md)**
+  Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
 
 ---
 
