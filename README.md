@@ -43,4 +43,10 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 - **LinkedIn :** [#profil](https://www.linkedin.com/in/jpvt33)  
 - **Email :** [@jpvt](mailto:jpvt@outlook.fr)
 
+---
+
+**[Outils-Tech](../outils-tech/README.md)** : voici le lien vers une série de fiches pratiques que j’utilise au quotidien pour mes projets en Data Analytics. Elles couvrent des sujets comme Python 🐍, SQL 🗃️, Machine Learning 🤖, et Data Visualization 📊, et peuvent être utiles à tout le monde dans le domaine de l'analyse de données.
+
+---
+
 Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
