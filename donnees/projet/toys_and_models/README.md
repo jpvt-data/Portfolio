@@ -21,10 +21,8 @@ L'objectif principal est de fournir une vue d'ensemble claire et à jour des per
 
 ## Outils utilisés
 
-- **Base de données SQL** : MySQL ou MariaDB
-- **Outil BI** : Power BI (ou autre outil à la discrétion du projet)
-- **Langage SQL** pour l’extraction des données
-- **Tableau de bord interactif** pour la présentation visuelle des KPIs
+- **Base de données SQL** : *SQLWorkbench*
+- **Outil BI** : *Power BI*
 
 ## Etapes du Projet
 
