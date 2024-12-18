@@ -35,7 +35,7 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 ---
 
 ## **🛠️ Outils-Tech**
-Ce [dépôt](./jpvt-data/Outils-TechREADME.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets en Data Analytics.
+Ce [dépôt](./jpvt-data/Outils-Tech/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets en Data Analytics.
 
 Elles couvrent des sujets comme Python 🐍, SQL 🗃️, Machine Learning 🤖, et Data Visualization 📊, et peuvent être utiles à tout le monde dans le domaine de l'analyse de données.
 
