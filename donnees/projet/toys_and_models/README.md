@@ -8,7 +8,9 @@ Ce projet a pour objectif de créer un tableau de bord dynamique pour une entrep
 
 ## Objectifs du Projet
 
-Le projet repose sur la création d'un tableau de bord interactif et automatisé permettant au directeur de suivre les informations clés relatives aux ventes, finances, logistique et ressources humaines. L'objectif principal est de fournir une vue d'ensemble claire et à jour des performances de l'entreprise, facilitant ainsi la prise de décisions éclairées.
+Le projet repose sur la création d'un tableau de bord interactif et automatisé permettant au directeur de suivre les informations clés relatives aux ventes, finances, logistique et ressources humaines.
+
+L'objectif principal est de fournir une vue d'ensemble claire et à jour des performances de l'entreprise, facilitant ainsi la prise de décisions éclairées.
 
 ### Principaux KPIs à inclure :
 - Chiffre d'affaires par mois et par région
