@@ -5,6 +5,8 @@
 ## À propos  
 Je suis un Data Analyst passionné par l'exploration et la valorisation des données. Fort d'une expérience dans le secteur du retail, je mets à profit mes compétences analytiques et techniques pour transformer les données en outils d’aide à la décision. Mon objectif est de trouver des solutions adaptées aux besoins variés des entreprises, quel que soit le secteur.
 
+Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
+
 ---
 
 ## 💻 Compétences techniques  
@@ -32,6 +34,13 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 
 ---
 
+## **🛠️ Outils-Tech**
+Ce [dépôt](../outils-tech/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets en Data Analytics.
+
+Elles couvrent des sujets comme Python 🐍, SQL 🗃️, Machine Learning 🤖, et Data Visualization 📊, et peuvent être utiles à tout le monde dans le domaine de l'analyse de données.
+
+---
+
 ## 🎯 Objectifs actuels  
 - Continuer à développer mes compétences en analyse et en visualisation de données.  
 - Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
@@ -40,13 +49,7 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 ---
 
 ## 🚀 Me contacter  
-- **LinkedIn :** [#profil](https://www.linkedin.com/in/jpvt33)  
-- **Email :** [@jpvt](mailto:jpvt@outlook.fr)
+- **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
+- **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
 
----
 
-**[Outils-Tech](../outils-tech/README.md)** : voici le lien vers une série de fiches pratiques que j’utilise au quotidien pour mes projets en Data Analytics. Elles couvrent des sujets comme Python 🐍, SQL 🗃️, Machine Learning 🤖, et Data Visualization 📊, et peuvent être utiles à tout le monde dans le domaine de l'analyse de données.
-
----
-
-Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
