@@ -1,6 +1,10 @@
 # Projet - SQL & BI - Toys & Models
 
-Bienvenue sur la page d'accueil du projet *Toys & Models*! Ce projet a pour objectif de créer un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes. À travers l'exploration d'une base de données SQL existante, ce projet vise à fournir des visualisations et des KPIs clairs permettant au directeur de l'entreprise de prendre des décisions stratégiques basées sur les dernières données disponibles.
+Bienvenue sur la page d'accueil du projet *Toys & Models*!
+
+Ce projet a pour objectif de créer un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
+
+À travers l'exploration d'une base de données SQL existante, ce projet vise à fournir des visualisations et des KPIs clairs permettant au directeur de l'entreprise de prendre des décisions stratégiques basées sur les dernières données disponibles.
 
 ## Sommaire du Projet
 
