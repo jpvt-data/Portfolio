@@ -6,7 +6,7 @@ Ce projet a pour objectif de créer un tableau de bord dynamique pour une entrep
 
 À travers l'exploration d'une base de données SQL existante, ce projet vise à fournir des visualisations et des KPIs clairs permettant au directeur de l'entreprise de prendre des décisions stratégiques basées sur les dernières données disponibles.
 
-## Sommaire du Projet
+## Etapes du Projet
 
 Ce projet se divise en plusieurs étapes essentielles, détaillées dans des fiches techniques distinctes. Vous trouverez ci-dessous un aperçu des différentes sections :
 
