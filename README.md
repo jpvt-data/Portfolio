@@ -3,7 +3,7 @@
 🚧 **Work in Progress** 🚧
 
 ## À propos  
-Je suis un Data Analyst passionné par l'exploration et la valorisation des données. Fort d'une expérience dans le secteur du retail, je mets à profit mes compétences analytiques et techniques pour transformer les données en outils d’aide à la décision. Mon objectif est de trouver des solutions adaptées aux besoins variés des entreprises, quel que soit le secteur.
+Data Analyst passionné par l'exploration et la valorisation des données, avec une grande expérience dans le secteur du retail, je mets à profit mes compétences analytiques et techniques pour transformer les données en outils d’aide à la décision. Mon objectif est de trouver des solutions adaptées aux besoins variés des entreprises, quel que soit le secteur.
 
 Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
