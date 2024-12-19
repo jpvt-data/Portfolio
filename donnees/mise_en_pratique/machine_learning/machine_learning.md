@@ -10,7 +10,7 @@ Cette section regroupe les exercices et projets réalisés dans le cadre de l'ap
 
 ## 🧠 Apprentissage supervisé
 
-- [**NLP, Analyse de sentiments - Bag of Words sur des tweets**](./NLP_bag_of_words_tfidf.ipynb)  
+- [**NLP, Analyse de sentiments - Bag of Words sur des tweets**](./NLP_bag_of_words.ipynb)  
   Classification de tweets positifs et négatifs avec régression logistique.
    - *Scikit-learn, CountVectorizer, TfidfVectorizer*
 - [**Cross-Validation & Grid Search**](./cross_validation_grid_search.ipynb)
