@@ -1,3 +1,5 @@
+[Retour à la page précédente](#)
+
 # Introduction au Web Scraping
 
 Bienvenue dans cette collection de notebooks dédiés à la pratique du **Web Scraping**. Le Web Scraping est une technique permettant d'extraire automatiquement des données de sites web. Ces données peuvent ensuite être utilisées à des fins d'analyse, d'enrichissement de bases de données ou pour des projets de Data Science.
