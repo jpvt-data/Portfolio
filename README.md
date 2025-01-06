@@ -36,6 +36,7 @@ Cette section est en développement et contiendra des études approfondies sur d
 Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
 
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
+- [**Web Scraping**](./donnees/mise_en_pratique/web_scraping/web_scraping.md)
 
 ---
 
