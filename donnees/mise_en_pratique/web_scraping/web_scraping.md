@@ -1,4 +1,4 @@
-[Retour à la page précédente](#)
+[⬅ Retour à Portfolio](../../../README.md)
 
 # Introduction au Web Scraping
 
@@ -15,6 +15,9 @@ Bienvenue dans cette collection de notebooks dédiés à la pratique du **Web Sc
 
 ## Mises en Pratique
 
-- **[1. Récupérer des infos et les organiser](./web_scraping_chuck_norris.ipynb)**    
+- **[Récupérer des infos et les organiser](./web_scraping_chuck_norris.ipynb)**    
   - Extraction de blagues ***Chuck Norris*** et leurs notes depuis un site, puis transformation des données en un DataFrame pour une analyse structurée.
+
+
+[⬅ Retour à Portfolio](../../../README.md)
   
