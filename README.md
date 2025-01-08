@@ -5,9 +5,9 @@
 ## À propos  
 Merci de visiter mon portfolio !
 
-Data Analyst passionné par l'exploration et la valorisation des données, avec une grande expérience dans le secteur du retail, je mets à profit mes compétences analytiques et techniques pour transformer les données en outils d’aide à la décision. 
+Data Analyst avec une forte expérience dans le retail, j’utilise les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
 
-**Mon objectif** : trouver des solutions adaptées aux besoins variés des entreprises, quel que soit le secteur.
+**Mon objectif** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
@@ -25,7 +25,7 @@ Voici les outils et technologies que j’utilise régulièrement :
 ---
 
 ## 📊 Projets  
-Cette section est en développement et contiendra des études approfondies sur des problématiques spécifiques que j'ai abordées, des projets au cours de ma formation, et mes réalisation personnelles.
+Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).
 
 - **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)**
    - Ce projet complet utilise des techniques de Machine Learning 🤖 et Data Visualisation 📊 pour créer un système intelligent de recommandation de films pour un client (Cinéma), en analysant les préférences des utilisateurs et en affinant les prédictions grâce à des modèles d'IA 💡.
