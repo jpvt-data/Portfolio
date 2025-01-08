@@ -27,7 +27,7 @@ Voici les outils et technologies que j’utilise régulièrement :
 ## 📊 Projets  
 Cette section est en développement et contiendra des études approfondies sur des problématiques spécifiques que j'ai abordées, des projets au cours de ma formation, et mes réalisation personnelles.
 
-- **[🎬 Algorithme Cinéma](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)**
+- **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)**
    - Ce projet complet utilise des techniques de Machine Learning 🤖 et Data Visualisation 📊 pour créer un système intelligent de recommandation de films pour un client (Cinéma), en analysant les préférences des utilisateurs et en affinant les prédictions grâce à des modèles d'IA 💡.
 
 - **[Toys & Models](./donnees/projet/toys_and_models/README.md)** ***- SQL & BI***
