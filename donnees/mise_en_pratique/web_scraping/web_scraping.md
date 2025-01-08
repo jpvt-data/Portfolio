@@ -21,5 +21,6 @@ Bienvenue dans cette collection de notebooks dédiés à la pratique du **Web Sc
   - Extraction d'informations sur les acteurs et actrices du film Interstellar depuis ***Allociné***, puis calcul à partir des données récoltées.
 
 
+
 [⬅ Retour à Portfolio](../../../README.md)
   
