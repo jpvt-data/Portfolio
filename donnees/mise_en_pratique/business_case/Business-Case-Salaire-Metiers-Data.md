@@ -1,3 +1,5 @@
+[⬅ Page Précédente](./business_case.md)
+
 # Business Case : Salaire dans les métiers de la data
 
 ## Introduction
@@ -601,3 +603,6 @@ df.reset_index(drop=True, inplace=True)
 # Exporter en CSV
 df.to_csv('salaire_metiers_data.csv', index=False, encoding='utf-8')
 ```
+
+
+[⬅ Page Précédente](./business_case.md)
