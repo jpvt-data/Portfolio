@@ -38,6 +38,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
 ## 🛠 Mises en pratique  
 Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
 
+- [**Business Case**](./donnees/mise_en_pratique/business_case/business_case.md)
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
 - [**Web Scraping**](./donnees/mise_en_pratique/web_scraping/web_scraping.md)
 
