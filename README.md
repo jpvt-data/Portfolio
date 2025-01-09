@@ -30,7 +30,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
 - **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)**
    - Ce projet complet utilise des techniques de Machine Learning 🤖 et Data Visualisation 📊 pour créer un système intelligent de recommandation de films pour un client (Cinéma), en analysant les préférences des utilisateurs et en affinant les prédictions grâce à des modèles d'IA 💡.
 
-- **[Toys & Models](./donnees/projet/toys_and_models/README.md)** ***- SQL & BI***
+- **[Toys & Models]()** ***à venir***
   - Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
 
 ---
