@@ -976,7 +976,7 @@ En combinant le tableau des postes et celui des salaires par continent :
 
 ---
 
-##Recommandations pour l'implantation d'un nouveau bureau
+## Recommandations pour l'implantation d'un nouveau bureau
 
 ### Priorité : Amérique du Nord (USA et Canada)
 - **Arguments :**
