@@ -972,4 +972,4 @@ En combinant le tableau des postes et celui des salaires par continent :
 
 #### **2ème Analyse KPI**
 
-![image.png](Business-Case-Salaire-Metiers-Data_files/image.png)
+![image.png](Business-Case-Salaire-Metiers-Data_files/image2.png)
