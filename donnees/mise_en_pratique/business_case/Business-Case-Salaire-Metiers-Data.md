@@ -973,3 +973,25 @@ En combinant le tableau des postes et celui des salaires par continent :
 #### **2ème Analyse KPI**
 
 ![image.png](Business-Case-Salaire-Metiers-Data_files/image2.png)
+
+---
+
+##Recommandations pour l'implantation d'un nouveau bureau
+
+### Priorité : Amérique du Nord (USA et Canada)
+- **Arguments :**
+  - Salaires les plus élevés, en particulier pour les profils seniors et experts.
+  - Attractivité pour les meilleurs talents du secteur.
+  - Compétitivité accrue sur le marché mondial.
+- **Recommandation :**
+  - Une implantation aux **États-Unis** ou au **Canada** est fortement recommandée pour maximiser l'attractivité et la compétitivité.
+
+### Alternative : Europe (Royaume-Uni ou Allemagne)
+- **Arguments :**
+  - Compromis entre des salaires attractifs et un coût de la vie souvent plus abordable que l'Amérique du Nord.
+  - Forte concentration de talents qualifiés, notamment pour les profils intermédiaires et seniors.
+  - Le **Royaume-Uni** et l'**Allemagne** offrent des opportunités intéressantes avec des marchés compétitifs.
+
+### Conclusion
+- **Option principale** : L'implantation en **Amérique du Nord** (États-Unis ou Canada) est recommandée pour attirer les meilleurs talents et rester compétitif à l'échelle mondiale.
+- **Option secondaire** : Si l'objectif est de réduire les coûts tout en accédant à un marché de talents qualifiés, l'**Europe** (Royaume-Uni ou Allemagne) constitue une alternative stratégique.
