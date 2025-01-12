@@ -33,8 +33,8 @@ Cette section contient études et projets sur des problématiques spécifiques (
 - **[Toys & Models]()** ***à venir***
   - Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
 
-- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)** *en développement : démarrage*
-   - Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.
+- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)** 
+   - *en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.
 
 ---
 
