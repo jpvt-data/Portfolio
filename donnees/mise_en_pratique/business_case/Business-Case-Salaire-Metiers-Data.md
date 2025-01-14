@@ -287,7 +287,7 @@ df = df.drop_duplicates()
 
 Voici les premières informations du dataset après avoir le chargement et une première exploration des données :
 
-- Il y a un total de 607 enregistrements dans le dataset.
+- Il y a un total de 73484 enregistrements dans le dataset.
 - Aucune valeur manquante
 - Les doublons éventuels ont été supprimés.
 
