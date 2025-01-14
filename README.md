@@ -5,9 +5,9 @@
 ## À propos - ***About***
 Merci de visiter mon portfolio !
 
-Data Analyst avec une bonne expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
+***Data Analyst*** avec une bonne expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
 
-**Mon objectif** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
+***Mon objectif*** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
