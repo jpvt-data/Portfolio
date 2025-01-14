@@ -88,6 +88,8 @@ Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regro
 - Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
 - Explorer de nouvelles techniques, notamment en machine learning et data storytelling.
 
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 - *Continue developing my skills in data analysis and visualization.*  
 - *Adapt my analytical solutions to diverse needs across different industries.*  
 - *Explore new techniques, particularly in machine learning and data storytelling.*   
