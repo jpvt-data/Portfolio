@@ -65,9 +65,13 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 ---
 
-## 🛠 Mises en pratique - *Hands-on Practice*
+## 🛠 Mises en pratique
 Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
-  
+
+⸻
+
+***Hands-on Practice***
+
 *In this section, organized by themes, you will find hands-on practices and exercises applying specific techniques to solve given challenges.*
 
 - [**Business Cases**](./donnees/mise_en_pratique/business_case/business_case.md)
