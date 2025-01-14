@@ -11,7 +11,7 @@ Data Analyst avec une bonne expérience retail, j’utilise aujourd'hui les donn
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
-<hr style="border: 0.1px solid #ccc;" />
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ***Thank you for visiting my portfolio!***
 
@@ -23,14 +23,25 @@ N’hésitez pas à explorer mes projets et à me contacter pour échanger sur d
 
 ---
 
-## 💻 Compétences techniques  
+## 💻 Compétences techniques - ***Technical Skills***  
 Voici les outils et technologies que j’utilise régulièrement :  
 - **Langages de programmation :** Python, SQL  
 - **Visualisation des données :** Power BI, Matplotlib, Seaborn  
 - **Manipulation des données :** Pandas, NumPy  
 - **Bases de données :** MySQL, PostgreSQL
 - **Machine learning** : Scikit-learn
-- **Outils complémentaires :** Git, Jupyter Notebook, Excel  
+- **Outils complémentaires :** Git, Jupyter Notebook, Excel
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+Here are the tools and technologies I regularly use:
+
+- **Programming languages :** Python, SQL
+- **Data visualization :** Power BI, Matplotlib, Seaborn
+- **Data manipulation :** Pandas, NumPy
+- **Databases :** MySQL, PostgreSQL
+- **Machine learning :** Scikit-learn
+- **Additional tools :** Git, Jupyter Notebook, Excel
 
 ---
 
