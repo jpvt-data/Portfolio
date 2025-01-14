@@ -11,6 +11,8 @@ Data Analyst avec une bonne expérience retail, j’utilise aujourd'hui les donn
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
+<hr style="border: 0.1px solid #ccc;" />
+
 ***Thank you for visiting my portfolio!***
 
 ***Data Analyst with solid retail experience, I now use data to help make better decisions and bring real value to projects.***
