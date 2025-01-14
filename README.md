@@ -23,7 +23,7 @@ N’hésitez pas à explorer mes projets et à me contacter pour échanger sur d
 
 ---
 
-## 💻 Compétences techniques - ***Technical Skills***  
+## 💻 Compétences techniques  
 Voici les outils et technologies que j’utilise régulièrement :  
 - 🖥️ **Langages de programmation :** Python, SQL  
 - 📊 **Visualisation des données :** Power BI, Matplotlib, Seaborn  
@@ -33,6 +33,8 @@ Voici les outils et technologies que j’utilise régulièrement :
 - 🔧 **Outils complémentaires :** Git, Jupyter Notebook, Excel
 
 ⸻
+
+***Technical Skills***
 
 Here are the tools and technologies I regularly use:
 
@@ -45,8 +47,12 @@ Here are the tools and technologies I regularly use:
 
 ---
 
-## 📊 Projets - *Projects*
+## 📊 Projets
 Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).
+
+⸻
+
+***Projects***
 
 *This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
 
