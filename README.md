@@ -76,8 +76,12 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 
 ---
 
-## **🛠️ Outils-Tech** - *Tech-Tools*
+## **🛠️ Outils-Tech**
 Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets Data.
+
+⸻
+
+***Tech-Tools***
 
 *This repository contains a series of practical guides I use daily for my data projects.*
 
