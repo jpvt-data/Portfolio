@@ -38,14 +38,14 @@ Voici les outils et technologies que j’utilise régulièrement :
 
 ***Technical Skills***
 
-Here are the tools and technologies I regularly use:
+*Here are the tools and technologies I regularly use :*
 
-- 🖥️ **Programming languages :** Python, SQL
-- 📊 **Data visualization :** Power BI, Matplotlib, Seaborn
-- 🔄 **Data manipulation :** Pandas, NumPy
-- 💾 **Databases :** MySQL, PostgreSQL
-- 🤖 **Machine learning :** Scikit-learn
-- 🔧 **Additional tools :** Git, Jupyter Notebook, Excel
+- 🖥️ ***Programming languages :** Python, SQL*
+- 📊 ***Data visualization :** Power BI, Matplotlib, Seaborn*
+- 🔄 ***Data manipulation :** Pandas, NumPy*
+- 💾 ***Databases :** MySQL, PostgreSQL*
+- 🤖 ***Machine learning :** Scikit-learn*
+- 🔧 ***Additional tools :** Git, Jupyter Notebook, Excel*
 
 ---
 
