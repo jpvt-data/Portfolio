@@ -11,7 +11,7 @@ Merci de visiter mon portfolio !
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻
 
 ***Thank you for visiting my portfolio!***
 
@@ -32,7 +32,7 @@ Voici les outils et technologies que j’utilise régulièrement :
 - 🤖 **Machine learning** : Scikit-learn
 - 🔧 **Outils complémentaires :** Git, Jupyter Notebook, Excel
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻
 
 Here are the tools and technologies I regularly use:
 
@@ -88,7 +88,7 @@ Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regro
 - Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
 - Explorer de nouvelles techniques, notamment en machine learning et data storytelling.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻
 
 - *Continue developing my skills in data analysis and visualization.*  
 - *Adapt my analytical solutions to diverse needs across different industries.*  
