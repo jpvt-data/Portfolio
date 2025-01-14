@@ -25,23 +25,23 @@ N’hésitez pas à explorer mes projets et à me contacter pour échanger sur d
 
 ## 💻 Compétences techniques - ***Technical Skills***  
 Voici les outils et technologies que j’utilise régulièrement :  
-- **Langages de programmation :** Python, SQL  
-- **Visualisation des données :** Power BI, Matplotlib, Seaborn  
-- **Manipulation des données :** Pandas, NumPy  
-- **Bases de données :** MySQL, PostgreSQL
-- **Machine learning** : Scikit-learn
-- **Outils complémentaires :** Git, Jupyter Notebook, Excel
+- 🖥️ **Langages de programmation :** Python, SQL  
+- 📊 **Visualisation des données :** Power BI, Matplotlib, Seaborn  
+- 🔄 **Manipulation des données :** Pandas, NumPy  
+- 💾 **Bases de données :** MySQL, PostgreSQL
+- 🤖 **Machine learning** : Scikit-learn
+- 🔧 **Outils complémentaires :** Git, Jupyter Notebook, Excel
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 Here are the tools and technologies I regularly use:
 
-- **Programming languages :** Python, SQL
-- **Data visualization :** Power BI, Matplotlib, Seaborn
-- **Data manipulation :** Pandas, NumPy
-- **Databases :** MySQL, PostgreSQL
-- **Machine learning :** Scikit-learn
-- **Additional tools :** Git, Jupyter Notebook, Excel
+- 🖥️ **Programming languages :** Python, SQL
+- 📊 **Data visualization :** Power BI, Matplotlib, Seaborn
+- 🔄 **Data manipulation :** Pandas, NumPy
+- 💾 **Databases :** MySQL, PostgreSQL
+- 🤖 **Machine learning :** Scikit-learn
+- 🔧 **Additional tools :** Git, Jupyter Notebook, Excel
 
 ---
 
