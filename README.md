@@ -2,7 +2,7 @@
 
 🚧 **Work in Progress** 🚧
 
-## À propos  
+## À propos - ***About***
 Merci de visiter mon portfolio !
 
 Data Analyst avec une bonne expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
@@ -10,6 +10,14 @@ Data Analyst avec une bonne expérience retail, j’utilise aujourd'hui les donn
 **Mon objectif** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
 
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
+
+***Thank you for visiting my portfolio!***
+
+***Data Analyst with solid retail experience, I now use data to help make better decisions and bring real value to projects.***
+
+***My goal: Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.***
+
+***Feel free to explore my projects and reach out to discuss collaborations or opportunities.***
 
 ---
 
