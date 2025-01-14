@@ -83,13 +83,13 @@ Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regro
 
 ---
 
-## 🎯 Objectifs actuels - *Current Goals* 
+## 🎯 Objectifs actuels
 - Continuer à développer mes compétences en analyse et en visualisation de données.  
 - Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
 - Explorer de nouvelles techniques, notamment en machine learning et data storytelling.
 
 ⸻
-
+***Current Goals*** 
 - *Continue developing my skills in data analysis and visualization.*  
 - *Adapt my analytical solutions to diverse needs across different industries.*  
 - *Explore new techniques, particularly in machine learning and data storytelling.*   
