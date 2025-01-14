@@ -15,13 +15,13 @@ N’hésitez pas à explorer mes projets et à me contacter pour échanger sur d
 
 ***About***
 
-***Thank you for visiting my portfolio!***
+*Thank you for visiting my portfolio!*
 
-***Data Analyst with solid retail experience, I now use data to help make better decisions and bring real value to projects.***
+*Data Analyst with solid retail experience, I now use data to help make better decisions and bring real value to projects.*
 
-***My goal: Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.***
+*My goal: Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.*
 
-***Feel free to explore my projects and reach out to discuss collaborations or opportunities.***
+*Feel free to explore my projects and reach out to discuss collaborations or opportunities.*
 
 ---
 
