@@ -48,6 +48,8 @@ Here are the tools and technologies I regularly use:
 ## 📊 Projets - *Projects*
 Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).
 
+*This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
+
 - **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)** - ***Cinema Algorithm - "The 23rd Screen"***
    - Ce projet complet utilise des techniques de Machine Learning 🤖 et Data Visualisation 📊 pour créer un système intelligent de recommandation de films pour un client (Cinéma), en analysant les préférences des utilisateurs et en affinant les prédictions grâce à des modèles d'IA 💡.
    - *This comprehensive project leverages Machine Learning* 🤖 *and Data Visualization *📊 *techniques to create an intelligent movie recommendation system for a client (Cinema), analyzing user preferences and refining predictions using AI models *💡.
