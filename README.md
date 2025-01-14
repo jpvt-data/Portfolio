@@ -2,7 +2,7 @@
 
 🚧 **Work in Progress** 🚧
 
-## À propos - ***About***
+## À propos
 Merci de visiter mon portfolio !
 
 ***Data Analyst*** avec une forte expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
@@ -12,6 +12,8 @@ Merci de visiter mon portfolio !
 N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
 
 ⸻
+
+***About***
 
 ***Thank you for visiting my portfolio!***
 
