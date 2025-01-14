@@ -45,7 +45,7 @@ Here are the tools and technologies I regularly use:
 
 ---
 
-## 📊 Projets  
+## 📊 Projets - *Projects*
 Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).
 
 - **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)** - ***Cinema Algorithm - "The 23rd Screen"***
@@ -54,14 +54,19 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 - **[Toys & Models]()** ***à venir***
   - Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
+  - *Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.*
 
 - **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)** 
-   - *en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.
+  - *en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.
+  - *In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.*
+  
 
 ---
 
-## 🛠 Mises en pratique  
+## 🛠 Mises en pratique - *Hands-on Practice*
 Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
+  
+*In this section, organized by themes, you will find hands-on practices and exercises applying specific techniques to solve given challenges.*
 
 - [**Business Cases**](./donnees/mise_en_pratique/business_case/business_case.md)
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
@@ -69,19 +74,25 @@ Dans cette section organisée en thématiques, vous trouverez des mises en prati
 
 ---
 
-## **🛠️ Outils-Tech**
+## **🛠️ Outils-Tech** - *Tech-Tools*
 Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets Data.
 
+*This repository contains a series of practical guides I use daily for my data projects.*
+
 ---
 
-## 🎯 Objectifs actuels  
+## 🎯 Objectifs actuels - *Current Goals* 
 - Continuer à développer mes compétences en analyse et en visualisation de données.  
 - Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
-- Explorer de nouvelles techniques, notamment en machine learning et data storytelling.  
+- Explorer de nouvelles techniques, notamment en machine learning et data storytelling.
+
+- *Continue developing my skills in data analysis and visualization.*  
+- *Adapt my analytical solutions to diverse needs across different industries.*  
+- *Explore new techniques, particularly in machine learning and data storytelling.*   
 
 ---
 
-## 🚀 Me contacter  
+## 🚀 Me contacter - *Contact*
 - **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
 - **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
 
