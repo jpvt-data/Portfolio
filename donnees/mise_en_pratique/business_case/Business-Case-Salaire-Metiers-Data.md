@@ -1,6 +1,13 @@
 # Business Case : Salaire dans les métiers de la data
 
 ## Introduction
+
+<br>
+<p align="center">
+  <img src="./donnees/images/IMG_0259.JPG" alt="Logo Cinéma" width="300">
+</p>
+<br>
+  
 Dans cette analyse, nous allons explorer les différentes caractéristiques (***salaire, type d'emploi, localisation, etc.***) des métiers dans le domaine de la **data** pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour notre client : un cabinet spécialisé dans les métiers de la **data**.
 
 Nous allons utiliser des données provenant de différents profils d’emploi pour **proposer des insights clairs sur les tendances salariales et les choix de localisations les plus intéressants**.
