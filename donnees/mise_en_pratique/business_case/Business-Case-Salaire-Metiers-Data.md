@@ -1,4 +1,4 @@
-# Business Case : Salaire dans les métiers de la data
+# Business Case : Analyse des métiers de la Data
 
 ## Introduction
 
