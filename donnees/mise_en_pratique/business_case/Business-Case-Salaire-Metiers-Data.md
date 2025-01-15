@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <img src="./Business-Case-Salaire-Metiers-Data_Files/datajob.PNG" alt="Data Job" width="300">
+  <img src="./Business-Case-Salaire-Metiers-Data_files/datajob.PNG" alt="Data Job" width="300">
 </p>
 <br>
   
