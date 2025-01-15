@@ -943,3 +943,7 @@ En combinant le tableau des postes et celui des salaires par continent :
 ### Conclusion
 - **Option principale** : L'implantation en **Amérique du Nord** (États-Unis ou Canada) est recommandée pour attirer les meilleurs talents et rester compétitif à l'échelle mondiale.
 - **Option secondaire** : Si l'objectif est de réduire les coûts tout en accédant à un marché de talents qualifiés, l'**Europe** (Royaume-Uni ou Allemagne) constitue une alternative stratégique.
+
+- **Pistes d'Amelioration** : 
+   - Une analyse plus poussée au niveau du delta année en nombre de postes permettrait d'identifier les pays "émergents" dans la Data, en périphérie géographique des pays "principaux contributeurs".
+   - Il manque également les données indiquant le nombre de bureaux par pays, pour identifier la concurrence et le réel potentiel de l'emplacement.
