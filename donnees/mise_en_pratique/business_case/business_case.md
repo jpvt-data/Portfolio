@@ -8,10 +8,7 @@ Chaque business case est détaillé avec les objectifs, la méthode utilisée, l
 
 ---
 
-### Liste des Business Cases
 
-- **[Analyse des métiers Data](./Business-Case-Salaire-Metiers-Data.md)**  
-Exploration des métiers dans le domaine de la data pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé
      
 ---
 
