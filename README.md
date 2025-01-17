@@ -1,121 +1,99 @@
 # Bienvenue sur mon portfolio ! - *Welcome !*
 
-🚧 **Work in Progress** 🚧
-
-## À propos
+## À propos - *About*
 Merci de visiter mon portfolio !
 
 ***Data Analyst*** avec une forte expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
 
 ***Mon objectif*** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
 
-N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités.
+N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités. Bonne visite !
 
-⸻
+- **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
+- **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
 
-***About***
+***"Les données nous parlent, mais c’est à nous de les faire chanter."***
+
+____
 
 *Thank you for visiting my portfolio!*
 
-*Data Analyst with solid retail experience, I now use data to help make better decisions and bring real value to projects.*
+***Data Analyst*** *with solid retail experience, I now use data to help make better decisions and bring real value to projects.*
 
-*My goal: Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.*
+***My goal***: *Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.*
 
-*Feel free to explore my projects and reach out to discuss collaborations or opportunities.*
+*Feel free to explore my projects and reach out to discuss collaborations or opportunities. Enjoy !*
 
----
-
-## 💻 Compétences techniques  
-Voici les outils et technologies que j’utilise régulièrement :  
-- 🖥️ **Langages de programmation :** Python, SQL  
-- 📊 **Visualisation des données :** Power BI, Matplotlib, Seaborn  
-- 🔄 **Manipulation des données :** Pandas, NumPy  
-- 💾 **Bases de données :** MySQL, PostgreSQL
-- 🤖 **Machine learning** : Scikit-learn
-- 🔧 **Outils complémentaires :** Git, Jupyter Notebook, Excel
-
-⸻
-
-***Technical Skills***
-
-*Here are the tools and technologies I regularly use :*
-
-- 🖥️ ***Programming languages :** Python, SQL*
-- 📊 ***Data visualization :** Power BI, Matplotlib, Seaborn*
-- 🔄 ***Data manipulation :** Pandas, NumPy*
-- 💾 ***Databases :** MySQL, PostgreSQL*
-- 🤖 ***Machine learning :** Scikit-learn*
-- 🔧 ***Additional tools :** Git, Jupyter Notebook, Excel*
+***"Data speaks to us, but it's up to us to make it sing."***
 
 ---
 
-## 📊 Projets
-Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).
-
-⸻
-
-***Projects***
+## 📊 Projets - *Projects*
+Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).  
 
 *This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
 
-- **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)** - ***Cinema Algorithm - "The 23rd Screen"***
-   - Ce projet complet utilise des techniques de Machine Learning 🤖 et Data Visualisation 📊 pour créer un système intelligent de recommandation de films pour un client (Cinéma), en analysant les préférences des utilisateurs et en affinant les prédictions grâce à des modèles d'IA 💡.
-   - *This comprehensive project leverages Machine Learning* 🤖 *and Data Visualization *📊 *techniques to create an intelligent movie recommendation system for a client (Cinema), analyzing user preferences and refining predictions using AI models *💡.
+- **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)** - ***Cinema Algorithm - "The 23rd Screen"***  
+Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌐 pour créer un système intelligent de recommandation de films pour un Cinéma.  
+*Complete project using Machine Learning* 🤖, *Data Visualization* 📊, *and a web interface* 🌐 *to create an intelligent movie recommendation system for a cinema.*
 
-- **[Toys & Models]()** ***à venir***
-  - Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.
-  - *Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.*
+- **[Toys & Models]()** ***à venir***   
+Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.  
+*Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.*
 
-- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)** 
-  - *en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.
-  - *In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.*
+- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)**  
+*en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.  
+*In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.*
   
-
 ---
 
-## 🛠 Mises en pratique
-Dans cette section organisée en thématiques, vous trouverez des mises en pratiques et exercices avec application des techniques spécifiques pour résoudre des problématiques données.
+## 🛠 Mises en pratique - *Hands-on Practices*
+Dans cette section, vous trouverez ***business cases*** et ***exercices techniques*** avec application des techniques spécifiques pour résoudre des problématiques données.  
 
-⸻
+*In this section, you will find business cases and technical exercises applying specific techniques to solve given problems.*
 
-***Hands-on Practice***
+### Business Cases
 
-*In this section, organized by themes, you will find hands-on practices and exercises applying specific techniques to solve given challenges.*
+Les ***business cases*** offrent une opportunité unique de découvrir de nouveaux univers, d’explorer des données, de relever des défis complexes et de présenter des résultats clairs et percutants, tout en permettant une progression continue.  
 
-- [**Business Cases**](./donnees/mise_en_pratique/business_case/business_case.md)
+*Business cases provide a unique opportunity to discover new worlds, explore data, tackle complex challenges, and deliver clear and impactful results, all while fostering continuous growth.*
+
+- **[Analyse des métiers Data](./Business-Case-Salaire-Metiers-Data.md)**  
+Exploration des métiers de la data dans le monde pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé.  
+*Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.*
+
+- **[Projet CampusCARE](https://github.com/jpvt-data/CampusCARE/blob/main/README.md)**  
+Analyse des facteurs de dépression chez les étudiants en Inde pour développer des outils de suivi, des stratégies d’intervention précoce et un tableau de bord interactif.  
+*Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.*
+
+### Exercices Techniques - *technical exercises*
+
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
 - [**Web Scraping**](./donnees/mise_en_pratique/web_scraping/web_scraping.md)
 
 ---
 
-## **🛠️ Outils-Tech**
+## **🛠️ Outils-Tech** - *Tech-Tools*
 Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets Data.
-
-⸻
-
-***Tech-Tools***
 
 *This repository contains a series of practical guides I use daily for my data projects.*
 
 ---
 
-## 🎯 Objectifs actuels
-- Continuer à développer mes compétences en analyse et en visualisation de données.  
-- Adapter mes solutions analytiques à des besoins variés dans différents secteurs.  
-- Explorer de nouvelles techniques, notamment en machine learning et data storytelling.
-
-⸻
-
-***Current Goals*** 
-
-- *Continue developing my skills in data analysis and visualization.*  
-- *Adapt my analytical solutions to diverse needs across different industries.*  
-- *Explore new techniques, particularly in machine learning and data storytelling.*   
+## 💻 Compétences techniques - *Technical Skills* 
+  
+- 🖥️ Python, SQL  
+- 📊 Power BI, Tableau, Matplotlib, Seaborn, Plotly, Folium 
+- 🔄 Pandas, NumPy  
+- 💾 MySQL, DBeaver, PostgreSQL
+- 🤖 Scikit-learn
+- 🔧 Git, Jupyter Notebook, VSCode, Excel
 
 ---
 
-## 🚀 Me contacter - *Contact*
-- **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
-- **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
+**Merci de votre visite !**
+
+*Thank you for your visit!*
+
 
 
