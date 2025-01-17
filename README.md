@@ -53,7 +53,6 @@ Dans cette section, vous trouverez ***business cases*** et ***exercices techniqu
 *In this section, you will find business cases and technical exercises applying specific techniques to solve given problems.*
 
 ### Business Cases
-
 Les ***business cases*** offrent une opportunité unique de découvrir de nouveaux univers, d’explorer des données, de relever des défis complexes et de présenter des résultats clairs et percutants, tout en permettant une progression continue.  
 
 *Business cases provide a unique opportunity to discover new worlds, explore data, tackle complex challenges, and deliver clear and impactful results, all while fostering continuous growth.*
