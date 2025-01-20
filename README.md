@@ -47,12 +47,8 @@ Création d'un tableau de bord dynamique pour une entreprise spécialisée dans 
   
 ---
 
-## 🛠 Mises en pratique - *Hands-on Practices*
-Dans cette section, vous trouverez ***business cases*** et ***exercices techniques*** avec application des techniques spécifiques pour résoudre des problématiques données.  
+## 💼 Business Cases
 
-*In this section, you will find business cases and technical exercises applying specific techniques to solve given problems.*
-
-### Business Cases
 Les ***business cases*** offrent une opportunité unique de découvrir de nouveaux univers, d’explorer des données, de relever des défis complexes et de présenter des résultats clairs et percutants, tout en permettant une progression continue.  
 
 *Business cases provide a unique opportunity to discover new worlds, explore data, tackle complex challenges, and deliver clear and impactful results, all while fostering continuous growth.*
@@ -65,7 +61,11 @@ Exploration des métiers de la data dans le monde pour fournir des recommandatio
 Analyse des facteurs de dépression chez les étudiants en Inde pour développer des outils de suivi, des stratégies d’intervention précoce et un tableau de bord interactif.  
 *Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.*
 
-### Exercices Techniques - *technical exercises*
+---
+
+## 🧩 Exercices Techniques - *technical exercises*
+Application de techniques spécifiques pour résoudre des problématiques données.  
+*Applying specific techniques to solve given problems.*
 
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
 - [**Web Scraping**](./donnees/mise_en_pratique/web_scraping/web_scraping.md)
