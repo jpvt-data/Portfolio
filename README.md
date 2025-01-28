@@ -57,7 +57,7 @@ Les ***business cases*** offrent une opportunité unique de découvrir de nouvea
 Analyse des données retail pour optimiser coûts, profits et stratégie, avec livrables EDA, PowerPoint et tableau de bord Power BI.  
 *Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.*
 
-- **[Analyse des métiers Data](../donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md)**  
+- **[Analyse des métiers Data](./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md)**  
 Exploration des métiers de la data dans le monde pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé.  
 *Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.*
 
