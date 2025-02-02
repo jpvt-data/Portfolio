@@ -11,7 +11,7 @@ N’hésitez pas à explorer mes projets et à me contacter pour échanger sur d
 
 - **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
 - **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
-- **[CV Pro](https://github.com/jpvt-data/Portfolio/donnees/cv/CV - JP Van Tongeren - 022025.pdf)**
+- **[CV Pro](https://github.com/jpvt-data/Portfolio/donnees/cv/CV_-_JP_Van_Tongeren_-_022025.pdf)**
 - **[CV ATS](https://github.com/jpvt-data/Portfolio/donnees/cv/CV - JP Van Tongeren - 022025.pdf)**
 
 ***"Les données nous parlent, mais c’est à nous de les faire chanter."***
