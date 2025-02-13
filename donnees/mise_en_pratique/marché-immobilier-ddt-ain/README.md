@@ -85,17 +85,17 @@ Développer un **outil interactif et accessible** qui facilite l’analyse **des
 
 ## 📌 Livrables
 
-- [**Rapport d’analyse**](./Analyse%20Exploratoire.md)  ([notebook](./Analyse%20Exploratoire.ipynb) / [pdf](./Analyse%20Exploratoire.pdf))
+- [**Rapport d’analyse**](./Analyse%20Exploratoire.md)  ([notebook](./Analyse%20Exploratoire.ipynb) / [pdf](./Analyse%20Exploratoire.pdf))  
 Méthodologie, Analyse Exploratoire, Recommandations stratégiques.
 
 - [**Tableau de bord interactif avec cartes et visualisations dynamiques.**](./Tableau%20de%20bord%20DDT.pdf)  
 Dashboard PowerBi avec carets et visualisations
 
-- [**Guide utilisateur détaillé pour faciliter l’interprétation des données.**](./guide%20d'utilisation.md) ([pdf](./guide%20d'utilisation%20-%20dashboard%20ddt.pdf))
+- [**Guide utilisateur détaillé pour faciliter l’interprétation des données.**](./guide%20d'utilisation.md) ([pdf](./guide%20d'utilisation%20-%20dashboard%20ddt.pdf))  
 Guide pratique à destination des parties prenantes.
 
 
-- [**Présentation finale.**](./Présentation.pdf)
+- [**Présentation finale.**](./Présentation.pdf)  
 Présentation visuelle du projet.
 
 ---
