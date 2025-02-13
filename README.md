@@ -59,6 +59,10 @@ Les ***business cases*** offrent une opportunité unique de découvrir de nouvea
 Analyse des données retail pour optimiser coûts, profits et stratégie, avec livrables EDA, PowerPoint et tableau de bord Power BI.  
 *Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.*
 
+- **[Observatoire du Marché Immobilier de l'Ain](./donnees/mise_en_pratique/marché-immobilier-ddt-ain/README.md)
+Analyse du marché immobilier de l’Ain via un tableau de bord interactif pour guider les décisions des collectivités et professionnels.  
+*Analysis of the real estate market in Ain through an interactive dashboard to support decision-making for local authorities and professionals.*
+
 - **[Analyse des métiers Data](./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md)**  
 Exploration des métiers de la data dans le monde pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé.  
 *Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.*
