@@ -1,6 +1,13 @@
-# Business Case : Salaire dans les métiers de la data
+# Business Case : Analyse des métiers de la Data
 
 ## Introduction
+
+<br>
+<p align="center">
+  <img src="./Business-Case-Salaire-Metiers-Data_files/datajob.PNG" alt="Data Job" width="300">
+</p>
+<br>
+  
 Dans cette analyse, nous allons explorer les différentes caractéristiques (***salaire, type d'emploi, localisation, etc.***) des métiers dans le domaine de la **data** pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour notre client : un cabinet spécialisé dans les métiers de la **data**.
 
 Nous allons utiliser des données provenant de différents profils d’emploi pour **proposer des insights clairs sur les tendances salariales et les choix de localisations les plus intéressants**.
@@ -54,19 +61,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -195,19 +189,6 @@ df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -313,7 +294,7 @@ df = df.drop_duplicates()
 
 Voici les premières informations du dataset après avoir le chargement et une première exploration des données :
 
-- Il y a un total de 607 enregistrements dans le dataset.
+- Il y a un total de 73484 enregistrements dans le dataset.
 - Aucune valeur manquante
 - Les doublons éventuels ont été supprimés.
 
@@ -533,19 +514,6 @@ df.sample(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -837,19 +805,6 @@ df[['intitulé_poste', 'catégorie']].sample(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -973,3 +928,29 @@ En combinant le tableau des postes et celui des salaires par continent :
 #### **2ème Analyse KPI**
 
 ![image.png](Business-Case-Salaire-Metiers-Data_files/image2.png)
+
+---
+
+## Recommandations pour l'implantation d'un nouveau bureau
+
+### Priorité : Amérique du Nord (USA et Canada)
+- **Arguments :**
+  - Salaires les plus élevés, en particulier pour les profils seniors et experts.
+  - Attractivité pour les meilleurs talents du secteur.
+  - Compétitivité accrue sur le marché mondial.
+- **Recommandation :**
+  - Une implantation aux **États-Unis** ou au **Canada** est fortement recommandée pour maximiser l'attractivité et la compétitivité.
+
+### Alternative : Europe (Royaume-Uni ou Allemagne)
+- **Arguments :**
+  - Compromis entre des salaires attractifs et un coût de la vie souvent plus abordable que l'Amérique du Nord.
+  - Forte concentration de talents qualifiés, notamment pour les profils intermédiaires et seniors.
+  - Le **Royaume-Uni** et l'**Allemagne** offrent des opportunités intéressantes avec des marchés compétitifs.
+
+### Conclusion
+- **Option principale** : L'implantation en **Amérique du Nord** (États-Unis ou Canada) est recommandée pour attirer les meilleurs talents et rester compétitif à l'échelle mondiale.
+- **Option secondaire** : Si l'objectif est de réduire les coûts tout en accédant à un marché de talents qualifiés, l'**Europe** (Royaume-Uni ou Allemagne) constitue une alternative stratégique.
+
+- **Pistes d'Amelioration** : 
+   - Une analyse plus poussée au niveau du delta année en nombre de postes permettrait d'identifier les pays "émergents" dans la Data, en périphérie géographique des pays "principaux contributeurs".
+   - Il manque également les données indiquant le nombre de bureaux par pays, pour identifier la concurrence et le réel potentiel de l'emplacement.
