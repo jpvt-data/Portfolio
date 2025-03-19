@@ -1,12 +1,16 @@
-<style>
-  table {
-    border-collapse: collapse;
-    border: none;
-  }
-  td {
-    border: none !important;
-  }
-</style>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+      border: none;
+    }
+    td {
+      border: none !important;
+    }
+  </style>
+</head>
+<body>
 
 # Bienvenue sur mon portfolio ! - *Welcome !*
 
