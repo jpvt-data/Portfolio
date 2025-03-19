@@ -30,7 +30,7 @@ ____
 
 ---
 
-## 📊 Projets - *Projects*
+## 📊 Projets Data - *Projects*
 Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).  
 
 *This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
@@ -39,21 +39,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
 Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌐 pour créer un système intelligent de recommandation de films pour un Cinéma.  
 *Complete project using Machine Learning* 🤖, *Data Visualization* 📊, *and a web interface* 🌐 *to create an intelligent movie recommendation system for a cinema.*
 
-- **[Toys & Models]()** ***à venir***   
-Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.  
-*Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.*
-
-- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)**  
-*en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.  
-*In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.*
-  
----
-
-## 💼 Business Cases
-
-Les ***business cases*** offrent une opportunité unique de découvrir de nouveaux univers, d’explorer des données, de relever des défis complexes et de présenter des résultats clairs et percutants, tout en permettant une progression continue.  
-
-*Business cases provide a unique opportunity to discover new worlds, explore data, tackle complex challenges, and deliver clear and impactful results, all while fostering continuous growth.*
+- **[Étude de Marché du Vin - Domaine des Croix](https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md)**  
+Analyse du marché du vin aux États-Unis pour le **Domaine des Croix**, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires. Résultats livrés sous forme d’EDA, rapport analytique et tableau de bord Power BI.  
+*Wine market analysis in the U.S. for **Domaine des Croix**, including price trends, competitive positioning, and pricing recommendations. Deliverables include EDA, analytical report, and Power BI dashboard.*
 
 - **[Market Price Retail](https://github.com/jpvt-data/Market-Price-Retail/tree/main)**  
 Analyse des données retail pour optimiser coûts, profits et stratégie, avec livrables EDA, PowerPoint et tableau de bord Power BI.  
@@ -70,6 +58,14 @@ Exploration des métiers de la data dans le monde pour fournir des recommandatio
 - **[Projet CampusCARE](https://github.com/jpvt-data/CampusCARE/blob/main/README.md)**  
 Analyse des facteurs de dépression chez les étudiants en Inde pour développer des outils de suivi, des stratégies d’intervention précoce et un tableau de bord interactif.  
 *Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.*
+
+- **[Toys & Models]()** ***à venir***   
+Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.  
+*Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.*
+
+- **[🎮 Pokémon Manager](https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md)**  
+*en développement* Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.  
+*In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.*
 
 ---
 
