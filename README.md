@@ -52,7 +52,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
 <table>
   <tr>
     <td width="100">
-    <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="80">
+    <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="200">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br>
