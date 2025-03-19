@@ -55,7 +55,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="200">
     </td>
     <td>
-      <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br>
+      <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br><br>
       Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌍 pour créer un système intelligent de recommandation de films pour un Cinéma.<br>
     </td>
   </tr>
