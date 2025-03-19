@@ -45,6 +45,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌍 pour créer un système intelligent de recommandation de films pour un Cinéma.<br>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
     <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="150">
@@ -54,6 +57,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
       <img src="https://github.com/jpvt-data/Market-Price-Retail/blob/main/images/Intro%20Business%20Case.png" width="150">
@@ -64,6 +70,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <em>Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.</em>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
       <img src="./donnees/mise_en_pratique/marché-immobilier-ddt-ain/ressources/ddt_logo.jpg" width="150">
@@ -74,6 +83,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <em>Analysis of the real estate market in Ain through an interactive dashboard to support decision-making for local authorities and professionals.</em>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
       <img src="./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data_files/datajob.PNG" width="150">
@@ -84,6 +96,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <em>Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.</em>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
       <img src="https://github.com/jpvt-data/CampusCARE/blob/main/images/CampusCare.png" width="150">
@@ -94,6 +109,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <em>Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.</em>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
     </td>
@@ -103,6 +121,9 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <em>Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.</em>
     </td>
   </tr>
+</table>
+<br>
+<table>
   <tr>
     <td width="150">
     </td>
