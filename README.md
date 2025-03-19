@@ -1,17 +1,3 @@
-<html>
-<head>
-  <style>
-    table {
-      border-collapse: collapse;
-      border: none;
-    }
-    td {
-      border: none !important;
-    }
-  </style>
-</head>
-<body>
-
 # Bienvenue sur mon portfolio ! - *Welcome !*
 
 ## À propos - *About*
@@ -80,7 +66,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_IMMOBILIER_AIN" width="150">
+      <img src="./donnees/mise_en_pratique/marché-immobilier-ddt-ain/ressources/ddt_logo.jpg" width="150">
     </td>
     <td>
       <strong><a href="./donnees/mise_en_pratique/marché-immobilier-ddt-ain/README.md">Observatoire du Marché Immobilier de l'Ain</a></strong><br><br>
@@ -110,7 +96,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_TOYS_MODELS" width="150">
     </td>
     <td>
       <strong><a href="#">Toys & Models</a></strong> <em>à venir</em><br><br>
@@ -120,7 +105,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <>
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">🎮 Pokémon Manager</a></strong><br><br>
