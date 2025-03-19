@@ -51,7 +51,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 <table>
   <tr>
-    <td width="100">
+    <td width="200">
     <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="200">
     </td>
     <td>
