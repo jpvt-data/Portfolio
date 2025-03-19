@@ -73,6 +73,70 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_MARKET_PRICE_RETAIL" width="150">
+    </td>
+    <td>
+      <strong><a href="https://github.com/jpvt-data/Market-Price-Retail/tree/main">Market Price Retail</a></strong><br><br>
+      Analyse des données retail pour optimiser coûts, profits et stratégie, avec livrables EDA, PowerPoint et tableau de bord Power BI.<br>
+      <em>Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_IMMOBILIER_AIN" width="150">
+    </td>
+    <td>
+      <strong><a href="./donnees/mise_en_pratique/marché-immobilier-ddt-ain/README.md">Observatoire du Marché Immobilier de l'Ain</a></strong><br><br>
+      Analyse du marché immobilier de l’Ain via un tableau de bord interactif pour guider les décisions des collectivités et professionnels.<br>
+      <em>Analysis of the real estate market in Ain through an interactive dashboard to support decision-making for local authorities and professionals.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_ANALYSE_METIERS_DATA" width="150">
+    </td>
+    <td>
+      <strong><a href="./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md">Analyse des métiers Data</a></strong><br><br>
+      Exploration des métiers de la data dans le monde pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé.<br>
+      <em>Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_CAMPUSCARE" width="150">
+    </td>
+    <td>
+      <strong><a href="https://github.com/jpvt-data/CampusCARE/blob/main/README.md">Projet CampusCARE</a></strong><br><br>
+      Analyse des facteurs de dépression chez les étudiants en Inde pour développer des outils de suivi, des stratégies d’intervention précoce et un tableau de bord interactif.<br>
+      <em>Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_TOYS_MODELS" width="150">
+    </td>
+    <td>
+      <strong><a href="#">Toys & Models</a></strong> <em>à venir</em><br><br>
+      Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.<br>
+      <em>Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="150">
+      <img src="LIEN_IMAGE_POKEMON_MANAGER" width="150">
+    </td>
+    <td>
+      <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">🎮 Pokémon Manager</a></strong><br><br>
+      <em>en développement</em> Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.<br>
+      <em>In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.</em>
+    </td>
+  </tr>
+</table>
+
+
 
 - **[Étude de Marché du Vin - Domaine des Croix](https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md)**  
 Analyse du marché du vin aux États-Unis pour le **Domaine des Croix**, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires. Résultats livrés sous forme d’EDA, rapport analytique et tableau de bord Power BI.  
