@@ -63,8 +63,8 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 <table>
   <tr>
-    <td width="100">
-    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="80">
+    <td width="200">
+    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="200">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br>
