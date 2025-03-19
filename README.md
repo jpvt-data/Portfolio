@@ -128,7 +128,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     <td width="150">
     </td>
     <td>
-      <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">🎮 Pokémon Manager</a></strong><br><br>
+      <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">Pokémon Manager</a></strong> <em>à venir</em><br><br>
       <em>en développement</em> Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.<br>
       <em>In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.</em>
     </td>
