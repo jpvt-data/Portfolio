@@ -125,6 +125,9 @@ Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regro
 
 **Merci de votre visite !**
 
+</body>
+</html>
+
 *Thank you for your visit!*
 
 
