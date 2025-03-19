@@ -58,13 +58,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
       <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br>
       Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌍 pour créer un système intelligent de recommandation de films pour un Cinéma.<br>
     </td>
-    <td width="200">
-    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="200">
-    </td>
-    <td>
-      <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br>
-      Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
-    </td>
   </tr>
 </table>
 
