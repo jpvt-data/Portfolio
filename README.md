@@ -59,9 +59,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
       Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌍 pour créer un système intelligent de recommandation de films pour un Cinéma.<br>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="150">
     <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="150">
@@ -71,9 +68,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
       Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="150">
       <img src="LIEN_IMAGE_MARKET_PRICE_RETAIL" width="150">
