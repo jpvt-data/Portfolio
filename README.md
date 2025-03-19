@@ -56,7 +56,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="https://github.com/jpvt-data/Market-Price-Retail/tree/main/images/Intro_Business_Case.png" width="150">
+      <img src="https://github.com/jpvt-data/Market-Price-Retail/tree/main/images/Intro%20Business%20Case.png" width="150">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Market-Price-Retail/tree/main">Market Price Retail</a></strong><br><br>
