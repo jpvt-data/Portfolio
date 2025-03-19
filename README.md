@@ -1,4 +1,4 @@
-🇫🇷 Vous cherchez la version française ? [Cliquez ici](README.md)
+🇫🇷 Looking for the French version? [Click here](https://github.com/jpvt-data/Portfolio/blob/main/README.md)
 
 # Welcome !
 
