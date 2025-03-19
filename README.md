@@ -70,7 +70,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_MARKET_PRICE_RETAIL" width="150">
+      <img src="https://github.com/jpvt-data/Market-Price-Retail/tree/main/images/Intro Business Case.png" width="150">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Market-Price-Retail/tree/main">Market Price Retail</a></strong><br><br>
@@ -90,7 +90,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_ANALYSE_METIERS_DATA" width="150">
+      <img src="./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data_files/datajob.PNG" width="150">
     </td>
     <td>
       <strong><a href="./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md">Analyse des métiers Data</a></strong><br><br>
@@ -100,7 +100,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_CAMPUSCARE" width="150">
+      <img src="https://github.com/jpvt-data/CampusCARE/blob/main/images/CampusCare.png" width="150">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/CampusCARE/blob/main/README.md">Projet CampusCARE</a></strong><br><br>
@@ -120,7 +120,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
   </tr>
   <tr>
     <td width="150">
-      <img src="LIEN_IMAGE_POKEMON_MANAGER" width="150">
+      <>
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">🎮 Pokémon Manager</a></strong><br><br>
