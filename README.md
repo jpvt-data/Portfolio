@@ -66,6 +66,20 @@ Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et inter
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100">
+    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="80">
+    </td>
+    <td>
+      <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br>
+      Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
+      <em>Wine market analysis in the U.S. for <strong>Domaine des Croix</strong>, including price trends, competitive positioning, and pricing recommendations.</em>
+    </td>
+  </tr>
+</table>
+
+
 - **[Étude de Marché du Vin - Domaine des Croix](https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md)**  
 Analyse du marché du vin aux États-Unis pour le **Domaine des Croix**, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires. Résultats livrés sous forme d’EDA, rapport analytique et tableau de bord Power BI.  
 *Wine market analysis in the U.S. for **Domaine des Croix**, including price trends, competitive positioning, and pricing recommendations. Deliverables include EDA, analytical report, and Power BI dashboard.*
