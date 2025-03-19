@@ -49,10 +49,6 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 *This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
 
-- **[🎬 Algorithme Cinéma - "***Le 23ème Ecran***"](https://github.com/jpvt-data/AlgoCinema/blob/main/README.md)** - ***Cinema Algorithm - "The 23rd Screen"***  
-Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌐 pour créer un système intelligent de recommandation de films pour un Cinéma.  
-*Complete project using Machine Learning* 🤖, *Data Visualization* 📊, *and a web interface* 🌐 *to create an intelligent movie recommendation system for a cinema.*
-
 <table>
   <tr>
     <td width="100">
