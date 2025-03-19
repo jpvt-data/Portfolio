@@ -1,39 +1,25 @@
-# Bienvenue sur mon portfolio ! - *Welcome !*
+🇫🇷 Vous cherchez la version française ? [Cliquez ici](README.md)
 
-## À propos - *About*
+# Welcome !
+
+## About me
 Merci de visiter mon portfolio !
 
-***Data Analyst*** avec une forte expérience retail, j’utilise aujourd'hui les données pour aider à prendre de meilleures décisions et apporter une vraie valeur aux projets.
+Thank you for visiting my portfolio!
 
-***Mon objectif*** : donner du sens aux chiffres, simplifier ce qui semble complexe, et fournir des analyses claires et des outils visuels qui parlent à tous, du manager à l’opérationnel.
+**Data Analyst** with solid retail experience, I now use data to help make better decisions and bring real value to projects.
 
-N’hésitez pas à explorer mes projets et à me contacter pour échanger sur des collaborations ou des opportunités. Bonne visite !
+**My goal**: Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.*
 
-- **[LinkedIn](https://www.linkedin.com/in/jpvt33)** 
-- **[mailto:@jpvt](mailto:jpvt@outlook.fr)**
-- **[CV Pro](https://github.com/jpvt-data/Portfolio/tree/main/donnees/cv/CV%20-%20JP%20Van%20Tongeren%20-%200220252.pdf)**
-- **[CV ATS](https://github.com/jpvt-data/Portfolio/tree/main/donnees/cv/CV%20-%20JP%20Van%20Tongeren%20-%20022025.pdf)**
+Feel free to explore my projects and reach out to discuss collaborations or opportunities. Enjoy !*
 
-***"Les données nous parlent, mais c’est à nous de les faire chanter."***
-
-____
-
-*Thank you for visiting my portfolio!*
-
-***Data Analyst*** *with solid retail experience, I now use data to help make better decisions and bring real value to projects.*
-
-***My goal***: *Make sense of numbers, simplify the seemingly complex, and provide clear analyses and visual tools that resonate with everyone, from managers to operational staff.*
-
-*Feel free to explore my projects and reach out to discuss collaborations or opportunities. Enjoy !*
-
-***"Data speaks to us, but it's up to us to make it sing."***
+**"Data speaks to us, but it's up to us to make it sing."**
 
 ---
 
-## 📊 Projets Data - *Projects*
-Cette section contient études et projets sur des problématiques spécifiques (réalisations personnelles, projets d'équipe).  
+## 📊 Projects
 
-*This section includes studies and projects addressing specific challenges (personal achievements, team projects).*
+This section includes studies and projects addressing specific challenges (personal achievements, team projects).
 
 <table>
   <tr>
@@ -41,8 +27,8 @@ Cette section contient études et projets sur des problématiques spécifiques (
     <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="150">
     </td>
     <td>
-      <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br><br>
-      Projet complet utilisant Machine Learning 🤖, Data Visualisation 📊 et interface web 🌍 pour créer un système intelligent de recommandation de films pour un Cinéma.<br>
+      <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Le 23ème Écran</a></strong><br><br>
+      Complete project using Machine Learning 🤖, Data Visualization 📊, and a web interface 🌍 to create an intelligent movie recommendation system for a cinema.<br>
     </td>
   </tr>
 </table>
@@ -54,7 +40,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br><br>
-      Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
+      Wine market analysis in the U.S. for <strong>Domaine des Croix</strong>, including price trends, competitive positioning, and pricing recommendations.<br>
     </td>
   </tr>
 </table>
@@ -66,8 +52,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Market-Price-Retail/tree/main">Market Price Retail</a></strong><br><br>
-      Analyse des données retail pour optimiser coûts, profits et stratégie, avec livrables EDA, PowerPoint et tableau de bord Power BI.<br>
-      <em>Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.</em>
+      Retail Data Analysis to optimize costs, profits, and strategy, with EDA, PowerPoint, and Power BI dashboard deliverables.
     </td>
   </tr>
 </table>
@@ -79,8 +64,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="./donnees/mise_en_pratique/marché-immobilier-ddt-ain/README.md">Observatoire du Marché Immobilier de l'Ain</a></strong><br><br>
-      Analyse du marché immobilier de l’Ain via un tableau de bord interactif pour guider les décisions des collectivités et professionnels.<br>
-      <em>Analysis of the real estate market in Ain through an interactive dashboard to support decision-making for local authorities and professionals.</em>
+      Analysis of the real estate market in Ain through an interactive dashboard to support decision-making for local authorities and professionals.
     </td>
   </tr>
 </table>
@@ -92,8 +76,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="./donnees/mise_en_pratique/business_case/Business-Case-Salaire-Metiers-Data.md">Analyse des métiers Data</a></strong><br><br>
-      Exploration des métiers de la data dans le monde pour fournir des recommandations sur l’emplacement d’un nouveau bureau pour un cabinet spécialisé.<br>
-      <em>Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.</em>
+      Exploration of data-related professions worldwide to provide recommendations on the location of a new office for a specialized firm.
     </td>
   </tr>
 </table>
@@ -105,8 +88,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/CampusCARE/blob/main/README.md">Projet CampusCARE</a></strong><br><br>
-      Analyse des facteurs de dépression chez les étudiants en Inde pour développer des outils de suivi, des stratégies d’intervention précoce et un tableau de bord interactif.<br>
-      <em>Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.</em>
+      Analysis of depression factors among students in India to develop monitoring tools, early intervention strategies, and an interactive dashboard.
     </td>
   </tr>
 </table>
@@ -117,8 +99,7 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="#">Toys & Models</a></strong> <em>à venir</em><br><br>
-      Création d'un tableau de bord dynamique pour une entreprise spécialisée dans la vente de modèles et de maquettes.<br>
-      <em>Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.</em>
+      Creation of a dynamic dashboard for a company specializing in the sale of models and figurines.</em>
     </td>
   </tr>
 </table>
@@ -129,31 +110,27 @@ Cette section contient études et projets sur des problématiques spécifiques (
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/Pokemon-Manager/blob/main/README.md">Pokémon Manager</a></strong> <em>à venir</em><br><br>
-      <em>en développement</em> Création d'une plateforme dédiée à la gestion des collections et à l'optimisation des decks de cartes Pokémon.<br>
-      <em>In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.</em>
+      In development - Creation of a platform dedicated to managing collections and optimizing Pokémon card decks.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧩 Exercices Techniques - *technical exercises*
-Application de techniques spécifiques pour résoudre des problématiques données.  
-*Applying specific techniques to solve given problems.*
+## 🧩 technical exercises
+Applying specific techniques to solve given problems.
 
 - [**Machine Learning**](./donnees/mise_en_pratique/machine_learning/machine_learning.md)
 - [**Web Scraping**](./donnees/mise_en_pratique/web_scraping/web_scraping.md)
 
 ---
 
-## **🛠️ Outils-Tech** - *Tech-Tools*
-Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regroupe une série de fiches pratiques que j’utilise au quotidien pour mes projets Data.
-
-*This repository contains a series of practical guides I use daily for my data projects.*
+## **🛠️ Tech-Tools
+This [repository](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) contains a series of practical guides I use daily for my data projects.
 
 ---
 
-## 💻 Compétences techniques - *Technical Skills* 
+## 💻 Technical Skills 
   
 - 🖥️ Python, SQL  
 - 📊 Power BI, Tableau, Matplotlib, Seaborn, Plotly, Folium 
@@ -164,12 +141,7 @@ Ce [dépôt](https://github.com/jpvt-data/Outils-Tech/blob/main/README.md) regro
 
 ---
 
-**Merci de votre visite !**
-
-</body>
-</html>
-
-*Thank you for your visit!*
+**Thank you for your visit!**
 
 
 
