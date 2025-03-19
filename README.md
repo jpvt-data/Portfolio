@@ -51,8 +51,8 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 <table>
   <tr>
-    <td width="200">
-    <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="200">
+    <td width="150">
+    <img src="https://github.com/jpvt-data/AlgoCinema/blob/main/donnees/images/IMG_0259.JPG" width="150">
     </td>
     <td>
       <strong><a href="https://github.com/jpvt-data/AlgoCinema/blob/main/README.md">Algorithme Cinéma - "Le 23ème Écran"</a></strong><br><br>
@@ -63,11 +63,11 @@ Cette section contient études et projets sur des problématiques spécifiques (
 
 <table>
   <tr>
-    <td width="200">
-    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="200">
+    <td width="150">
+    <img src="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/data/eda_vin.png" width="150">
     </td>
     <td>
-      <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br>
+      <strong><a href="https://github.com/jpvt-data/Etude-Prix-Vin-USA/blob/main/README.md">Étude de Marché du Vin - Domaine des Croix</a></strong><br><br>
       Analyse du marché du vin aux États-Unis pour le <strong>Domaine des Croix</strong>, avec étude des tendances de prix, positionnement concurrentiel et recommandations tarifaires.<br>
     </td>
   </tr>
